@@ -1,6 +1,6 @@
 # Hi, I'm [Ivan Klimchuk](https://klimchuk.com/) 👋🏼.
 
-I am a **Senior Software Engineer** and **Team Lead** based in Minsk, Belarus, working at [OnePoint](https://1pt.com/) formally, but actually I improve [TAO Project](https://www.taotesting.com/) last five years. The project is about providing tools for e-assessments according to modern and common standards.
+I am a **Senior Software Engineer** and **Department Lead** (actually do role of Engineering Manager) based in Minsk, Belarus, working at [OnePoint](https://1pt.com/) formally, but actually I improve [TAO Project](https://www.taotesting.com/) last five years. The project is about providing tools for e-assessments according to modern and common standards.
 
 I'm a coding passion focused on PHP and Go, interested in design, tech, smart homes, and of course open-source activities.
 
