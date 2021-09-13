@@ -10,6 +10,8 @@ I love open source and try to participate in it regularly. I am a lucky guy beca
 
 Besides TAO, more than 10 years of my life I spent and continue spending to support MODX, a framework, and a content management system. I started as a simple user and now I am one of the maintainers. Behind shoulders [participation in meetups and conferences](https://klimchuk.com/talks/), including the organization of the largest MODX conference – **MODXpo 2017** – in Minsk.
 
+GitHub Sponsors does not work properly in Belarus, so if you would like to support me, please, subsribe on my [Patreon page](https://www.patreon.com/ivanklimchuk) or just [buy me a cup of coffe](https://www.buymeacoffee.com/alroniks) (or two). Also, I provide consulting service about software development and building software solutions.
+
 ## Pet Projects
 
 From time to time I share my pet projects with the big world, which means I proud to show them. Here a list of such projects.
