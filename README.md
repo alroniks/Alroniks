@@ -14,6 +14,8 @@ GitHub Sponsors does not work properly in Belarus, so if you would like to suppo
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alroniks&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alroniks)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Pet Projects
 
 From time to time I share my pet projects with the big world, which means I proud to show them. Here a list of such projects.
