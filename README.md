@@ -12,7 +12,7 @@ Besides TAO, more than 10 years of my life I spent and continue spending to supp
 
 GitHub Sponsors does not work properly in Belarus, so if you would like to support me, please, subsribe on my [Patreon page](https://www.patreon.com/ivanklimchuk) or just [buy me a cup of coffe](https://www.buymeacoffee.com/alroniks) (or two). Also, I provide consulting service about software development and building software solutions.
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alroniks&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alroniks&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Pet Projects
 
