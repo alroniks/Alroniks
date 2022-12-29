@@ -1,30 +1,37 @@
-# Hi, I'm [Ivan Klimchuk](https://klimchuk.com/) 👋🏼.
+# Hi, I'm [Ivan Klimchuk](https://klimchuk.dev) 👋🏼.
 
-I am a **Senior Software Engineer** and **Department Lead** (actually do role of Engineering Manager) based in Minsk, Belarus, working at [OnePoint](https://1pt.com/) formally, but actually I improve [TAO Project](https://www.taotesting.com/) last five years. The project is about providing tools for e-assessments according to modern and common standards.
-
-I'm a coding passion focused on PHP and Go, interested in design, tech, smart homes, and of course open-source activities.
+I am a **Senior Software Engineer** and **Engineering Manager** at [OnePoint](https://1pt.com/). I've been working daily on improving [TAO Project](https://www.taotesting.com/) last eight years. The project is about providing tools for e-assessments according to modern and common standards. I'm a coding passion focused on PHP, Golang, and sometimes JavaScript. I am interested in design, tech, smart homes, and open-source activities.
 
 ## Open Source
 
-I love open source and try to participate in it regularly. I am a lucky guy because my working project actually is open-sourced which allows me to work and enjoy at the same time. Reach out if you also want to join our team.
+I love open source and try to participate in it regularly. I am a lucky guy because my work project with open-source license. It allows me to work and enjoy at the same time. Reach me out if you also want to join our team.
 
-Besides TAO, more than 10 years of my life I spent and continue spending to support MODX, a framework, and a content management system. I started as a simple user and now I am one of the maintainers. Behind shoulders [participation in meetups and conferences](https://klimchuk.com/talks/), including the organization of the largest MODX conference – **MODXpo 2017** – in Minsk.
+Besides TAO, for more than ten years of my life, I spent and continue spending to support MODX. It is a framework and a content management system. I started as a simple user, and now I am one of the maintainers. In the past there is participation in meetups and conferences, including the organization of the largest MODX conference – **MODXpo 2017** – in Minsk.
 
-GitHub Sponsors does not work properly in Belarus, so if you would like to support me, please, subsribe on my [Patreon page](https://www.patreon.com/ivanklimchuk) or just [buy me a cup of coffe](https://www.buymeacoffee.com/alroniks) (or two). Also, I provide consulting service about software development and building software solutions.
+I appreciate any kind of support for my open-source activity. If you would like to support me, please, subscribe on my [Patreon](https://www.patreon.com/ivanklimchuk) page or use any membership on the [Buy Me a Coffee](https://www.buymeacoffee.com/ivanklimchuk/membership). There are also possible one-time gratitudes. Additionally, I provide consulting services for software development and building software solutions. Based not only on MODX.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alroniks&count_private=true&show_icons=true&include_all_commits=true&layout=compact)
 
 ## Pet Projects
 
-From time to time I share my pet projects with the big world, which means I proud to show them. Here a list of such projects.
+Unregularly, but I share my pet projects with the big world, which means I am proud to show them. Here is a list of such.
 
 ### [pravilna.by](https://pravilna.by/)
-It is a set of rules of the Belarusian language, which actually published in many places already, but I collected them in the more conventional view with links to the specific paragraphs and points, with searching by rules, etc. Based on analytics I see that students at schools actively use my service, which means it is useful to the people. The best metric of my work.
+It is a set of rules of the Belarusian language. Rules themselves exist in many places, including textbooks. I have collected them in the more convenient view with links to the specific paragraphs and points, including search by rules, etc. Based on analytics, I see that students and pupils actively use my service. It means they find it convenient. It is the best metric of my work.
 
-Full list of my projects [listed on the website](https://klimchuk.com/projects/).
+[Full list of my projects](https://klimchuk.dev/done) listed on the website.
 
-## Other
+## Indie Maker & Solopreneur
 
-Aside from coding, I enjoy writing thoughts and notes from travel on my blog [in Russian](https://klimchuk.by/notes/) and [English](https://klimchuk.com/notes/).
+In the middle of November, I decided to become an indie-maker. I like how people build and grow their projects, sell them, and make them ramen profitable. In some cases, they achieve outstanding results. I wrote a note about my decision to become an indie maker on Medium — [Indie-making Journey Begun](https://medium.com/@ivanklimchuk/indie-making-journey-begun-d62cb0532d6f). Feel free to [follow me](https://medium.com/@ivanklimchuk) there. I am writing regularly.
 
-[Follow me on Twitter](https://twitter.com/iklimchuk) (in Russian) or [support me on Patreon](https://www.patreon.com/ivanklimchuk).
+As well I write my newsletter — [Ivan's Weekly Focus](https://ivanklimchuk.substack.com/). In the issues, I share my progress in indie making journey. Subscribe to get tips about productivity. Because I do it having 9-to-5 work as Software Developer and Manager, one toddler, and one newborn, and loving to sleep longer. So, for me, it is a bit tricky, but I manage. [Subscribe](https://ivanklimchuk.substack.com/) for inspiration as well.
+
+## Just links
+
+- [Personal Page & Blog](https://klimchuk.dev)
+- [Blog on Medium](https://medium.com/@ivanklimchuk)
+- [Ivan's Weekly Focus Newsletter](https://ivanklimchuk.substack.com/)
+- [Twitter with daily updates](https://twitter.com/ivnklm)
+- [Buy Me a Coffee](https://www.buymeacoffee.com/ivanklimchuk)
+- [Patreon](https://www.patreon.com/ivanklimchuk)
