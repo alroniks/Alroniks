@@ -1,6 +1,6 @@
-# Hi, I'm Ivan Klimchuk 👋🏼.
+# Hi, I'm Ivan Klimchuk 👋🏼
 
-I am a **Senior Fullstack Software Engineer** at [Galactica Games]([https://1pt.com/](https://galactica.games/)). I joined the project in 2023 and since that time we have been focused on building the best payment infrastructure for real money mobile games. My current tech stack is various and includes TypeScript, NodeJS, React Native, C#, Unity, Objective-C, NextJS, NestJS, and maybe Rust in the future.
+I am a **Senior Fullstack Software Engineer** at [Galactica Games](https://galactica.games/). I joined the project in 2023 and since that time we have been focused on building the best payment infrastructure for real money mobile games. My current tech stack is various and includes TypeScript, NodeJS, React Native, C#, Unity, Objective-C, NextJS, NestJS, and maybe Rust in the future.
 
 In the past, I've been working as a Senior Software Engineer, SRE, and Engineering Manager on improving [TAO Project](https://www.taotesting.com/) for about eight years. The project is about providing tools for e-assessments according to modern and common standards. I have a coding passion with PHP, Golang, and sometimes JavaScript. 
 
