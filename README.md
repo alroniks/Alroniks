@@ -37,7 +37,7 @@ As well I write my newsletter — [Ivan's Weekly Focus](https://ivanklimchuk.sub
 - [My articles on Medium](https://medium.com/@ivanklimchuk)
 - [Ivan's Weekly Focus Newsletter](https://ivanklimchuk.substack.com/)
 
-### Support Me 💖
+## Support Me 💖
 
 If you like what I do and want to show your support:
 
